@@ -24,9 +24,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**Shiivaam7**&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username**&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**Shiivaam7**&layout=compact&theme=radical)
 
 ---
 
