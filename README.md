@@ -33,6 +33,15 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shiivaam7&theme=react&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7&theme=dracula&no-frame=true&column=4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiivaam7&layout=compact&theme=react)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiivaam7&show_icons=true&theme=react&hide_border=true)
+
+
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
