@@ -27,6 +27,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiivaam7&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shiivaam7&theme=react&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7&theme=dracula&no-frame=true&column=4)
+
 ---
 
 ### ⚡ Recent Activity:
