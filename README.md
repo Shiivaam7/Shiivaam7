@@ -17,9 +17,9 @@
 ---
 
 ### 🌐 Reach Me:
-[![LinkedIn](https://www.linkedin.com/in/shivam-kumar-b67984348/)  
-[![Instagram](https://www.instagram.com/framefusion_7/)  
-[![Email](shivamraj0k0r@gmail.com)  
+ <a href="https://www.linkedin.com/in/shivam-kumar-b67984348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/framefusion_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="shivamraj0k0r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 ## 📊 GitHub Stats:
