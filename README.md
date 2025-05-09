@@ -27,7 +27,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiivaam7&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shiivaam7&theme=react&hide_border=true)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiivaam7&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7&theme=dracula&no-frame=true&column=4)
 
