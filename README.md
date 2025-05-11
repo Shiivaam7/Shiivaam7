@@ -1,4 +1,6 @@
 # Hi, I'm Shivam ✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=380&height=45">
 
 🧠 B.Tech AI & ML student at [SAGE UNIVERSITY]  
 🌱 Currently learning Artificial Intelligence & Machine Learning  
@@ -8,8 +10,7 @@
 
 ### 💻 Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  >
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -46,10 +47,23 @@
 </p>
 
 ---
+### 📌 Popular Repositories:
 
+<p>
+  <a href="https://https://github.com/Shiivaam7/coder-of-delhi-1st-project-using-python">
+    <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https:https://github.com/Shiivaam7/central-Dao-Token">
+    <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https:https://github.com/Shiivaam7/alram-clock">
+    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
