@@ -63,7 +63,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-
+- 🚀 **Pushed** [**numpy-basics**] https://github.com/Shiivaam7/numpy-basics
 <!--END_SECTION:activity-->
 
 ---
