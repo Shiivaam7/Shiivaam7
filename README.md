@@ -33,6 +33,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7&theme=dracula&no-frame=true&column=4)
 
 ----
+### 🛠 Tools:
 <p>
   <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
