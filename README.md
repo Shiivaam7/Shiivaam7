@@ -1,6 +1,6 @@
 # Hi, I'm Shivam ✨
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?
 
 🧠 B.Tech AI & ML student at [SAGE UNIVERSITY]  
 🌱 Currently learning Artificial Intelligence & Machine Learning  
