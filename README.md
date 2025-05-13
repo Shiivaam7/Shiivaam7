@@ -1,7 +1,4 @@
 # Hi, I'm Shivam ✨
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-
 🧠 B.Tech AI & ML student at [SAGE UNIVERSITY]  
 🌱 Currently learning Artificial Intelligence & Machine Learning  
 👯 Looking to collaborate on impactful & challenging projects  
