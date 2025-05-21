@@ -1,4 +1,4 @@
-# Hi, I'm Shivam 
+# Hi, I'm Shivam
 🧠 B.Tech AI & ML student at [SAGE UNIVERSITY]  
 🌱 Currently learning Artificial Intelligence & Machine Learning  
 👯 Looking to collaborate on impactful & challenging projects  
