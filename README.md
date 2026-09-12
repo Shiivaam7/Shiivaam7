@@ -4,10 +4,10 @@
 
 B.Tech AI & ML student at **SAGE University, Indore**, focused on building practical AI/ML applications and learning by shipping real projects.
 
-- 🤖 Building with **Machine Learning, RAG, LLMs and Python**
-- 🧠 Exploring **Generative AI, NLP and data-driven applications**
-- 🚀 Interested in collaborating on meaningful AI/ML projects
-- 🌐 Portfolio: [my-portfolio-mu-fawn-aaldipuwfk.vercel.app](https://my-portfolio-mu-fawn-aaldipuwfk.vercel.app/)
+-  Building with **Machine Learning, RAG, LLMs and Python**
+-  Exploring **Generative AI, NLP and data-driven applications**
+-  Interested in collaborating on meaningful AI/ML projects
+-  Portfolio: [my-portfolio-mu-fawn-aaldipuwfk.vercel.app](https://my-portfolio-mu-fawn-aaldipuwfk.vercel.app/)
 
 ---
 
