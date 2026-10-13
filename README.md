@@ -14,7 +14,7 @@ Building practical AI/ML applications and learning by shipping real projects.
 <p>
   <a href="https://www.linkedin.com/in/shivam-kumar-b67984348/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Shiivaam7"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+ 
   <a href="mailto:shivamraj0k0r@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://my-portfolio-mu-fawn-aaldipuwfk.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
